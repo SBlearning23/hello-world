@@ -1,2 +1,2 @@
-# SBlearning23
+# About me
 My personal repository
